@@ -1,2 +1,2 @@
 # PutinHVNC
-An older cracked version of PandoraHVNC which has been customized. Does not include source code.
+An older cracked version of PandoraHVNC which has been customized. <br> This repo does not include source code.
