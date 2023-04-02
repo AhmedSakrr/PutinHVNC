@@ -6,4 +6,4 @@ An older cracked version of PandoraHVNC which has been customized. <br> <b>This 
 Download the PutinHVNC.zip from the Releases tab. <br>
 
 <h3> Terms and conditions </h3>
-Only use when penetration testing. <br> This tool should never be used for malicious purposes!
+Only use when penetration testing. <br> This tool should never be used for malicious purposes! <br> I am not responsible for any damage done.
